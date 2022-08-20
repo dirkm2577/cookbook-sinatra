@@ -9,5 +9,5 @@ configure :development do
 end
 
 get "/" do
-  "This is my first Web App!"
+  <h1>Hello <em>world</em>!</h1>
 end
